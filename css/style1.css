@@ -1,0 +1,163 @@
+*
+ {
+	 padding:0px;
+	 margin:0px;
+	 box-sizing:border-box;
+ }
+ .background
+ {
+     
+	 background-size:100% 100%;
+	 background-position:center;
+	 height:90vh;
+ }
+ 
+ 
+ .form-group 
+ {
+	 color : white;
+	 font-size:13px;
+	 font-weight:bold;
+	 text-transform:uppercase;
+	 display:block;
+	 margin-bottom:24px;
+	 padding:13px 20px;
+	 box-shadow:none;
+	 border-radius:6px;
+	 box-shadow:none;
+	 outline:none;
+	
+ }
+ .form-control-1
+ {
+	max-width: 60px;
+    padding-left: 15px;
+    padding-right: 15px;
+	margin-top:30px;
+	margin-bottom:30px;
+ }
+ .form-group-2
+ {
+	 margin-bottom:0;
+	  color : white;
+	 
+	
+ }
+ .container_1
+ {
+	 padding-bottom: 90px;
+    padding-top: 90px;
+	
+ }
+ .row_1
+ {
+	 display: flex;
+   
+    flex-wrap: wrap;
+    margin-right: 15px;
+    margin-left: 15px;
+ }
+ .container_2
+ {
+	 background-image:url(../images/r2.jpg);
+	 background-size:100% 100%;
+	 background-position:center;
+	 
+	 margin-top:0px;
+ }
+ .background-image-2
+ {
+	background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+    background-attachment: fixed;
+    background-position: center center;
+	
+	 
+ }
+ .padding-top-bottom-120
+ {
+	padding-top: 150px;
+    padding-bottom: 150px;
+	
+ }
+ .padding-top-bottom-130
+ {
+	padding-top:0px;
+    padding-bottom:60px;
+	margin-top:30px;
+	
+ }
+ .padding-20 {
+	padding:20px;
+}
+ 
+ .container padding-top-bottom-20
+ {
+	 padding-top: 20px;
+    padding-bottom: 20px;
+	
+ }
+ .container padding-top-bottom-50
+ {
+	 padding-top: 20px;
+    padding-bottom: 20px;
+	
+ }
+ .bg-dark-blue-2
+ {
+	background-color: rgba(255,204,0,0.8);
+}
+.bg-dark-blue
+{
+	background-color: rgba(255,255,0,0.5);
+}
+. padding-top-bottom-5
+{
+	padding-top: 5px;
+    padding-bottom: 5px;
+}
+.bg-social
+{
+	background-color:#797464;
+}
+.margin-10
+{
+	margin-top: 10px;
+	
+	
+}
+.background-image-2
+{
+	background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+    background-attachment: fixed;
+    background-position: center center;
+	
+}
+.margin-20
+{
+	margin-top: 20px;
+}
+.margin-30
+{
+	margin-top: 30px;
+}
+.margin-50
+{
+	margin-top: 30px;
+}
+
+
+
+
+
+
+
+ 
+	
+ 
+	
+
+ 
